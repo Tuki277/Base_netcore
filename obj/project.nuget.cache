@@ -1,11 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "mr4Dp6XfniMa6pMT6Ba38gxjuZENk2z67AmirD65Hvj6gn/JW8lMlRX9fa2ImN8mrTk+r1caNI+J3bxVs6mlYw==",
+  "dgSpecHash": "i6PbXWDqotzHndAvXhqRCnsBL1QYWuOCOtGkF7L2OgBMtlf/PNkjX9hR/hK0owjAWGE3uOV2AAXpDLsTNZbc1A==",
   "success": true,
   "projectFilePath": "/mnt/AC58F7E458F7AAEA/Code/hocthemdev/LearnNetCore/api-base/api-base.csproj",
   "expectedPackageFiles": [
+    "/home/tuki/.nuget/packages/automapper/11.0.0/automapper.11.0.0.nupkg.sha512",
+    "/home/tuki/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/11.0.0/automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
     "/home/tuki/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
-    "/home/tuki/.nuget/packages/microsoft.csharp/4.5.0/microsoft.csharp.4.5.0.nupkg.sha512",
+    "/home/tuki/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/home/tuki/.nuget/packages/microsoft.data.sqlclient/2.1.4/microsoft.data.sqlclient.2.1.4.nupkg.sha512",
     "/home/tuki/.nuget/packages/microsoft.data.sqlclient.sni.runtime/2.1.1/microsoft.data.sqlclient.sni.runtime.2.1.1.nupkg.sha512",
     "/home/tuki/.nuget/packages/microsoft.entityframeworkcore/6.0.8/microsoft.entityframeworkcore.6.0.8.nupkg.sha512",
