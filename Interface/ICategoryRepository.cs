@@ -8,9 +8,8 @@ namespace api_base.Interface
         Category GetCategory(int id);
         ICollection<Pokemon> GetPokemonByCategory(int categoryId);
         bool CategoryExists(int id);
-        bool CreateCategory(Category category);
-        bool UpdateCategory(Category category);
-        bool DeleteCategory(Category category);
-        bool Save();
+        Category CreateCategory(Category category);
+        Category UpdateCategory(Category category);
+        Category DeleteCategory(Category category);
     }
 }

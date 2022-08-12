@@ -11,6 +11,7 @@ namespace api_base.Helper
             CreateMap<Pokemon, PokemonDto>();
             CreateMap<Category, CategoryDto>();
             CreateMap<CategoryDto, Category>();
+            CreateMap<CategoryNonIdDto, Category>();
             CreateMap<CountryDto, Country>();
             CreateMap<OwnerDto, Owner>();
             CreateMap<PokemonDto, Pokemon>();

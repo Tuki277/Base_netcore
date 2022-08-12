@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "i6PbXWDqotzHndAvXhqRCnsBL1QYWuOCOtGkF7L2OgBMtlf/PNkjX9hR/hK0owjAWGE3uOV2AAXpDLsTNZbc1A==",
+  "dgSpecHash": "ybxqwFxV+uuKNQlZY9GfxhZdOsTyYnO7pubutEF+oPrhS04yrMlfszos9xlmy+9jik/ytoqubld+HjkjJc5SMA==",
   "success": true,
   "projectFilePath": "/mnt/AC58F7E458F7AAEA/Code/hocthemdev/LearnNetCore/api-base/api-base.csproj",
   "expectedPackageFiles": [
     "/home/tuki/.nuget/packages/automapper/11.0.0/automapper.11.0.0.nupkg.sha512",
     "/home/tuki/.nuget/packages/automapper.extensions.microsoft.dependencyinjection/11.0.0/automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",
+    "/home/tuki/.nuget/packages/hellang.middleware.problemdetails/6.5.1/hellang.middleware.problemdetails.6.5.1.nupkg.sha512",
     "/home/tuki/.nuget/packages/humanizer.core/2.8.26/humanizer.core.2.8.26.nupkg.sha512",
     "/home/tuki/.nuget/packages/microsoft.csharp/4.7.0/microsoft.csharp.4.7.0.nupkg.sha512",
     "/home/tuki/.nuget/packages/microsoft.data.sqlclient/2.1.4/microsoft.data.sqlclient.2.1.4.nupkg.sha512",
@@ -46,6 +47,7 @@
     "/home/tuki/.nuget/packages/system.diagnostics.diagnosticsource/6.0.0/system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
     "/home/tuki/.nuget/packages/system.drawing.common/4.7.0/system.drawing.common.4.7.0.nupkg.sha512",
     "/home/tuki/.nuget/packages/system.identitymodel.tokens.jwt/6.8.0/system.identitymodel.tokens.jwt.6.8.0.nupkg.sha512",
+    "/home/tuki/.nuget/packages/system.reflection.metadata/5.0.0/system.reflection.metadata.5.0.0.nupkg.sha512",
     "/home/tuki/.nuget/packages/system.runtime.caching/4.7.0/system.runtime.caching.4.7.0.nupkg.sha512",
     "/home/tuki/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
     "/home/tuki/.nuget/packages/system.security.accesscontrol/4.7.0/system.security.accesscontrol.4.7.0.nupkg.sha512",

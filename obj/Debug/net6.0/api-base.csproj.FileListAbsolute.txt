@@ -62,3 +62,4 @@
 /mnt/AC58F7E458F7AAEA/Code/hocthemdev/LearnNetCore/api-base/bin/Debug/net6.0/runtimes/win/lib/netcoreapp3.0/System.Windows.Extensions.dll
 /mnt/AC58F7E458F7AAEA/Code/hocthemdev/LearnNetCore/api-base/bin/Debug/net6.0/AutoMapper.dll
 /mnt/AC58F7E458F7AAEA/Code/hocthemdev/LearnNetCore/api-base/bin/Debug/net6.0/AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+/mnt/AC58F7E458F7AAEA/Code/hocthemdev/LearnNetCore/api-base/bin/Debug/net6.0/Hellang.Middleware.ProblemDetails.dll
