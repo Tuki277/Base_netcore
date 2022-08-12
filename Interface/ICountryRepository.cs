@@ -13,5 +13,9 @@ namespace api_base.Interface
         ICollection<Owner> GetOwnersFromACountry(int CountryId);
 
         bool CountryExists(int id);
+
+        bool CreateCountry(Country country);
+
+        bool Save();
     }
 }
